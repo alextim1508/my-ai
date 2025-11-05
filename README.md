@@ -1,12 +1,12 @@
-# 🧠  RAG Chat Application
+# 🧠 Artificial Intelligence Chat Application
 
 Простое чат-приложение на Spring Boot с использованием Ollama LLM (нейросеть, искуственный интелект) и Server-Sent Events для потоковой передачи ответов.
 
 ## 🌟 Возможности
+- Интеграция с Ollama LLM (модель gemma3:4b-it-q4_K_M)
 - Сохранение истории чатов в PostgreSQL
 - Поддержка векторной базы данных через pgvector
 - Потоковая передача ответов с использованием SSE
-- Интеграция с Ollama LLM (модель gemma3:4b-it-q4_K_M)
 
 ## 🚀 Запуск приложения
 
