@@ -1,6 +1,6 @@
 # 🧠  RAG Chat Application
 
-Простое чат-приложение на Spring Boot с использованием PostgreSQL, Ollama LLM и Server-Sent Events для потоковой передачи ответов.
+Простое чат-приложение на Spring Boot с использованием Ollama LLM (нейросеть, искуственный интелект) и Server-Sent Events для потоковой передачи ответов.
 
 ## 🌟 Возможности
 - Сохранение истории чатов в PostgreSQL
